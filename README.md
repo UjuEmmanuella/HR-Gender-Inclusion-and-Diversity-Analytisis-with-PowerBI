@@ -1,19 +1,11 @@
 # HR-Gender-Inclusion-and-Diversity-Analytisis-with-PowerBI
 This repository contains key files and documentation for the HR Gender Diversity and Inclusion Analytics Project. The project uses HR data analysis to identify barriers to women’s advancement into leadership roles and recommends targeted strategies for fostering gender equity. For detailed documentation and the full report, read the Medium article [here](https://medium.com/@UjuEmmanuella/making-an-impact-with-data-using-hr-analytics-to-build-a-fairer-gender-leadership-pipeline-41ec2b777737).
 
-Understood! Here’s the updated **Methodology** section with your detailed points, keeping the list format and simple language, integrated into the full README structure you requested:
-
----
-
-# 📊 HR Gender Diversity & Inclusion Analytics: Using Data to Close the Leadership Gap
-
-This repository contains key files and documentation for the **HR Gender Diversity and Inclusion Analytics Project**. The project uses HR data analysis to identify barriers to women’s advancement into leadership roles and recommends targeted strategies for fostering gender equity. For a detailed exploration, read the full Medium article here.
-
 ---
 
 ## 🔍 Project Overview
 
-Leveraging HR analytics and data visualization techniques, this project uncovers where women’s career progression stalls within an organization. The analysis highlights the gender leadership gap and provides actionable insights for HR leaders and decision-makers aiming to improve gender inclusion and diversity in leadership.
+using HR analytics and data visualization techniques, this project identifies where women’s career progression stalls within an organization. The analysis highlights the gender leadership gap and provides actionable insights for HR leaders and decision-makers aiming to improve gender inclusion and diversity in leadership.
 
 ---
 
@@ -77,4 +69,11 @@ For the full article with detailed analysis, visualizations, and step-by-step in
 
 ---
 
+<h3>📊 Gender Inclusion and Diversity Dashboards</h3>
+
+<p float="left">
+  <img src="./YourFolderName/Dashboard(Overview)-Gender%20Inclusion%20and%20Diversity%20Analysis.png" width="45%" />
+  &nbsp;
+  <img src="./YourFolderName/Dashboard(Breakdown)-Gender%20Inclusion%20and%20Diversity%20Analysis.png" width="45%" />
+</p>
 
