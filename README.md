@@ -72,8 +72,9 @@ For the full article with detailed analysis, visualizations, and step-by-step in
 <h3>📊 Gender Inclusion and Diversity Dashboards</h3>
 
 <p float="left">
-  <img src="./YourFolderName/Dashboard(Overview)-Gender%20Inclusion%20and%20Diversity%20Analysis.png" width="45%" />
+  <img src="./Dashboard(Overview)-Gender%20Inclusion%20and%20Diversity%20Analysis.png" width="45%" />
   &nbsp;
-  <img src="./YourFolderName/Dashboard(Breakdown)-Gender%20Inclusion%20and%20Diversity%20Analysis.png" width="45%" />
+  <img src="./Dashboard(Breakdown)-Gender%20Inclusion%20and%20Diversity%20Analysis.png" width="45%" />
 </p>
+
 
